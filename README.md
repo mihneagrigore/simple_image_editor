@@ -1,4 +1,3 @@
-(Grigore Mihnea - Andrei, 311CA)
 Marching Squares
 
 Algoritmul implementat urmareste enuntul problemei, citeste datele despre
