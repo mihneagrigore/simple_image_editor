@@ -1,4 +1,4 @@
-//GRIGORE MIHNEA - ANDREI, 311CA
+//Copyright GRIGORE MIHNEA - ANDREI
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
